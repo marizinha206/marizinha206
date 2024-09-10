@@ -1,3 +1,7 @@
-Meu nome é **Mariana**, tenho 16 anos.
-Sou estudante da escola E.E Nove de Julho, estou no primeiro ano do Ensino Médio.
-Na aula de Tecnologia e Robótica estou utilizando a plataforma Alura, fornecida pelo CMSP.
+**Mariana**
+
+_Tecnologia e Robótica_
+
+😻
+
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlicGZicHpiNTI5anMxc3RveHYyMm9wemIyODljaGlteW01ZnQ1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiVvi66FqT2bpym6R8/giphy.webp)
